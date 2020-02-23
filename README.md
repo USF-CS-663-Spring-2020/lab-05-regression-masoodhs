@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**: S.Masoud Hosseini  
+**USF email address**: shosseini@usfca.edu
